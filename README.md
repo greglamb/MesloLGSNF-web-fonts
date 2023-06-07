@@ -16,5 +16,5 @@ This is simply the Meslo Nerd Font (MesloLGS NF) patched for [Powerlevel10k](htt
 
 ```js
 term_.prefs_.set('font-family', '"MesloLGS NF", monospace');
-term_.prefs_.set('user-css', 'https://www.uncon.net/MesloLGSNF-web-fonts/stylesheet.css');
+term_.prefs_.set('user-css', 'https://raw.githubusercontent.com/greglamb/MesloLGSNF-web-fonts/main/stylesheet.css');
 ```
