@@ -16,4 +16,8 @@ Settings:
 - Text font size: 15
 - Text font smoothing: antialiased
 - Line height padding size: 0
-- Custom CSS (URI): https://greglamb.github.io/MesloLGSNF-web-fonts/stylesheet.css
+- Custom CSS (inline text): Copy/Paste the contents of https://greglamb.github.io/MesloLGSNF-web-fonts/stylesheet.css
+
+## Development Notes
+
+- Custom CSS (URI) should work, but it does not. Copying the inline text was the only way I could get it work.
