@@ -4,17 +4,11 @@ This is simply the Meslo Nerd Font (MesloLGS NF) patched for [Powerlevel10k](htt
 
 ## Usage
 
-### [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/iodihamcpbpeioajjeobimgagajmlibd)
+Visit [Terminal Settings](chrome-untrusted://terminal/html/nassh_preferences_editor.html) on the Chromebook
 
-* Launch *Secure Shell*, and click on **Options**
-	* **Text font family**: `"MesloLGS NF", monospace`
-	* **Custom CSS (URI)**: `https://www.uncon.net/MesloLGSNF-web-fonts/stylesheet.css`
+Text font family: "MesloLGS NF", monospace
+Text font size: 15
+Text font smoothing: antialiased
+Line height padding size: 0
 
-### Linux Terminal or [Crosh Window](https://chrome.google.com/webstore/detail/crosh-window/nhbmpbdladcchdhkemlojfjdknjadhmh)
-
-* Launch Terminal, press `ctrl+shift+j`, and paste the following:
-
-```js
-term_.prefs_.set('font-family', '"MesloLGS NF", monospace');
-term_.prefs_.set('user-css', 'https://raw.githubusercontent.com/greglamb/MesloLGSNF-web-fonts/main/stylesheet.css');
-```
+Custom CSS (URI): https://raw.githubusercontent.com/greglamb/MesloLGSNF-web-fonts/main/stylesheet.css
