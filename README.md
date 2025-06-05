@@ -11,4 +11,4 @@ Visit chrome-untrusted://terminal/html/nassh_preferences_editor.html on the Chro
 - Text font smoothing: antialiased
 - Line height padding size: 0
 
-Custom CSS (URI): https://raw.githubusercontent.com/greglamb/MesloLGSNF-web-fonts/main/stylesheet.css
+Custom CSS (URI): https://greglamb.github.io/MesloLGSNF-web-fonts/stylesheet.css
